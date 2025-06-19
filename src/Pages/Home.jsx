@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Navbar from '../Section/Navbar';
 import Hero from '../Section/Hero';
-import Para from "../Section/para";
+import Paragraph from "../Section/Paragraph";
 import Why from '../Section/why';
 import BestSellingSection from '../Section/BestSellingSection';
 import Footer from '../Section/Footer';
@@ -24,7 +24,7 @@ const Home = () => {
     <>
       <Navbar />
       <Hero />
-      <Para />
+      <Paragraph />
       <Why />
       <BestSellingSection />
       <Every />

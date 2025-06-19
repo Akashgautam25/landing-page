@@ -1,6 +1,7 @@
 import React from "react";
-import Hero1 from "../assets/Hero1.png"; // Model image
-import Hero2 from "../assets/Hero2.PNG"; // Product image
+import Hero1 from "../assets/Hero1.png"; 
+import Hero2 from "../assets/Hero2.png"; 
+
 
 const Hero = () => {
   return (

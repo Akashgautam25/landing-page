@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Navbar from '../Section/Navbar';
 import Hero from '../Section/Hero';
-import Para from "../Section/Para.jsx"; // add extension if needed
-
+import Para from "../Section/para";
 import Why from '../Section/why';
 import BestSellingSection from '../Section/BestSellingSection';
 import Footer from '../Section/Footer';

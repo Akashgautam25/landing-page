@@ -5,7 +5,7 @@ import Profile from "../assets/profile.png";
 
 const Navbar = () => {
   return (
-    <div className="w-full h-full bg-[#EFF5E1] px-4 sm:px-12 xl:px-32 grid grid-cols-2 lg:grid-cols-3 items-center text-[#2D3B36]">
+    <div className="w-full h-full bg-[#EFF5E1] px-4 sm:px-12 xl:px-32 grid grid-cols-2 lg:grid-cols-3 items-center text-[#2D3B36] pb-28 pt-8">
       <a href="#" className="font-bold text-lg md:text-2xl tracking-tight cursor-pointer">
         SKINCARE
       </a>
